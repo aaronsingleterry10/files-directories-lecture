@@ -1,0 +1,8 @@
+C:\Users\Aaron Singleterry\source\repos\FileDirectory\bin\Debug\FileDirectory.exe.config
+C:\Users\Aaron Singleterry\source\repos\FileDirectory\bin\Debug\FileDirectory.exe
+C:\Users\Aaron Singleterry\source\repos\FileDirectory\bin\Debug\FileDirectory.pdb
+C:\Users\Aaron Singleterry\source\repos\FileDirectory\obj\Debug\FileDirectory.csproj.AssemblyReference.cache
+C:\Users\Aaron Singleterry\source\repos\FileDirectory\obj\Debug\FileDirectory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aaron Singleterry\source\repos\FileDirectory\obj\Debug\FileDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Aaron Singleterry\source\repos\FileDirectory\obj\Debug\FileDirectory.exe
+C:\Users\Aaron Singleterry\source\repos\FileDirectory\obj\Debug\FileDirectory.pdb
